@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Bigdata by JohnReeves</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Bigdata</h1>
+      <h2 class="project-tagline">A short guide to finding and using data in the Bath: Hacked data store, for the non-technical audience</h2>
+      <a href="https://github.com/JohnReeves/BigData" class="btn">View on GitHub</a>
+      <a href="https://github.com/JohnReeves/BigData/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/JohnReeves/BigData/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h2>
+<a id="data-store---getting-started-guide" class="anchor" href="#data-store---getting-started-guide" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Store - Getting Started Guide</h2>
+
+<p>A short guide to finding and using data in the Bath: Hacked data store. The guidance is intended to be useful for both a technical and non-technical audience.</p>
+
+<h1>
+<a id="the-data-store" class="anchor" href="#the-data-store" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>The Data Store</h1>
+
+<p>The data store can be found at <a href="https://data.bathhacked.org/">https://data.bathhacked.org/</a>.</p>
+
+<p>It’s a website that hosts open data about Bath &amp; North East Somerset. The data comes from the local council and national datasets, e.g. published by the Office of National Statistics or the Environment Agency. In the future we hope to have data from other local organisations.</p>
+
+<p>You don’t need to register to use the data store. All the data can be accessed without a login. But if you’re a developer who is using the APIs that the store provides, then if you do register then you can make extra queries if you use your API key. This also helps us track popular applications and datasets.</p>
+
+<p>The data store is hosted on a platform called Socrata. We pay for this service so we can concentrate on publishing and using data, rather than worrying about running another website or set of databases.</p>
+
+<p>There is documentation and some videos that can help you learn more about Socrata.</p>
+
+<h1>
+<a id="finding-datasets" class="anchor" href="#finding-datasets" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Finding Datasets</h1>
+
+<p>To browse through the store to find data you can:</p>
+
+<p>Click on the categories on the homepage, e.g. to find all of the Environmental data
+Search for data using a keyword, e.g. “parking”. This will search in the dataset titles, descriptions and also in the datasets themselves.
+You can also narrow down you search by using the datasets page which lets you combine together searches, categories and more to find just the data you need.</p>
+
+<p>The data store contains a number of things:</p>
+
+<p>datasets, which are hosted in the platform and which can be downloaded, queried, and explored using the built in tools. E.g. live parking data
+pointers to external datasets, which live elsewhere on the web. You can follow a link to those to download or use them
+charts, maps, and a variety of other visualisations of the data
+The charts, maps, and other “data lenses” can be created entirely in the data store. So you can make a useful visualisation or tool without having to create a separate website or application. For example someone has created a map showing restaurants with very poor hygiene ratings. These can be embedded in another website, e.g. a blog, to help you tell stories with the data. See the Socrata video tutorials for more help.
+Finding Your Way Around a Dataset
+Open up the BANES Live Car Park Occupancy dataset in another browser window whilst you read this section.</p>
+
+<p>Every dataset hosted in the store is presented in basically the same way. When you look at the dataset you’ll see:</p>
+
+<h1>
+<a id="its-name" class="anchor" href="#its-name" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Its name</h1>
+
+<p>A description that tells you more about the dataset
+A spreadsheet-like table that contains the actual data, each column should have a name that tells you what data it contains</p>
+
+<p>If the dataset is large or has a lot of columns then you can browse through it to explore it.</p>
+
+<p>There are some additional controls on the right hand side of the screen which provide ways to explore, visualise or access the data. These are shown below:</p>
+
+<p>The top row has:</p>
+
+<p>Some social tools to share the dataset, subscribe to an RSS feed
+Options to change the page layout to give you a better view of the data, e.g. an easier view of individual records
+A search box to find data in the dataset
+A full-screen mode option which will give you more space</p>
+
+<p>The second row of coloured buttons gives you additional options:</p>
+
+<ul>
+<li>Manage – allows you to tweak the columns being shown and re-order them to tweak the presentation to your liking.</li>
+</ul>
+
+<p>Tip: if you’re signed in, then you can save these views and share with others</p>
+
+<ul>
+<li><p>More Views – access to views, graphs and charts that others have made with this dataset</p></li>
+<li><p>Filter – allows you to sort, filter, and format the dataset to find the specific data you’re interested in.</p></li>
+</ul>
+
+<p>Tip: again, if you’re signed in, then you can save these views and share with others</p>
+
+<ul>
+<li><p>Visualize – provides access to tools to present the data as a chart or a map (if it has some location data in it). The tools provide similar functionality to Excel or other spreadsheet software.</p></li>
+<li><p>Export – ability to download the dataset and links to its APIs</p></li>
+</ul>
+
+<p>Tip: every hosted dataset has two APIs. Both offer similar basic features that support querying the data</p>
+
+<ul>
+<li>Discuss – a comment form to leave messages to the publisher</li>
+</ul>
+
+<p>-Embed – code snippets to allow you to embed the dataset (or a chart or map) in a blog post</p>
+
+<ul>
+<li>About – more metadata about the dataset, e.g. when was it updated, who published it, and under what licence it is published 
+Tip: the majority of datasets are under open licenses, but a few may have restrictions, e.g. to research use, please check!</li>
+</ul>
+
+<h1>
+<a id="downloading" class="anchor" href="#downloading" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Downloading</h1>
+
+<p>To download a dataset:</p>
+
+<p>Click the”Export” button on the dataset page
+From the pull-out menu, choose a data format</p>
+
+<p>The most commonly used will be CSV, XLS (for Excel), or JSON</p>
+
+<h1>
+<a id="accessing-the-api" class="anchor" href="#accessing-the-api" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Accessing the API</h1>
+
+<p>To access the API for a dataset:</p>
+
+<p>Click the “Export” button on the dataset page
+The pull-out menu will give you two options for accessing the data:
+A SODA API – this is Socrata’s own API. Their developer portal has a lot more detail on it, and links to client libraries, etc.
+An ODATA API – this is a Microsoft API that is supported by a variety of tools. You can use it to import data into Excel or Tableau. More documentation.</p>
+
+<p>Both APIs use JSON. Use whichever one is best for you. However the SODA API will also link to an online tool that will let you explore creating API queries in your browser. Here’s the one for the live car park dataset.</p>
+
+<p>If you click on the field names in the tool then it will try to give you an example API query that uses that field and some real data.</p>
+
+<pre><code>Tip: you can click on the example to see it in practice, or click the little pencil icon
+</code></pre>
+
+<p>to be taken to a hurl.it page (like this one) which will let you explore things a little 
+more clearly.
+Further Reading
+Socrata Developer Portal
+SODA API Getting Started Guide
+Chris Metcalfe’s jsfiddle examples.</p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/JohnReeves/BigData">Bigdata</a> is maintained by <a href="https://github.com/JohnReeves">JohnReeves</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
