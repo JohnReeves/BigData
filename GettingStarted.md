@@ -100,6 +100,6 @@ to be taken to a hurl.it page (like this one) which will let you explore things 
 more clearly.
 
 ###Further Reading
-- Socrata Developer Portal
-- SODA API Getting Started Guide
-- Chris Metcalfe’s jsfiddle examples.
+- Socrata Developer Portal [https://dev.socrata.com/]
+- SODA API Getting Started Guide [https://dev.socrata.com/consumers/getting-started.html]
+- Chris Metcalfe’s jsfiddle examples [http://jsfiddle.net/user/chrismetcalf/fiddles/]
