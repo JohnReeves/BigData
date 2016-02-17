@@ -71,6 +71,7 @@ Tip: every hosted dataset has two APIs. Both offer similar basic features that s
 - Embed – code snippets to allow you to embed the dataset (or a chart or map) in a blog post
 
 - About – more metadata about the dataset, e.g. when was it updated, who published it, and under what licence it is published 
+
 Tip: the majority of datasets are under open licenses, but a few may have restrictions, e.g. to research use, please check!
 
 ##Downloading
@@ -87,8 +88,8 @@ To access the API for a dataset:
 Click the “Export” button on the dataset page
 
 The pull-out menu will give you two options for accessing the data:
--A SODA API – this is Socrata’s own API. Their developer portal has a lot more detail on it, and links to client libraries, etc.
--An ODATA API – this is a Microsoft API that is supported by a variety of tools. You can use it to import data into Excel or Tableau. More documentation.
+- *A SODA API* – this is Socrata’s own API. Their developer portal has a lot more detail on it, and links to client libraries, etc.
+- *An ODATA API* – this is a Microsoft API that is supported by a variety of tools. You can use it to import data into Excel or Tableau. More documentation.
 
 Both APIs use JSON. Use whichever one is best for you. However the SODA API will also link to an online tool that will let you explore creating API queries in your browser. Here’s the one for the live car park dataset.
 
@@ -97,7 +98,8 @@ If you click on the field names in the tool then it will try to give you an exam
 	Tip: you can click on the example to see it in practice, or click the little pencil icon
 to be taken to a hurl.it page (like this one) which will let you explore things a little 
 more clearly.
-Further Reading
--Socrata Developer Portal
--SODA API Getting Started Guide
--Chris Metcalfe’s jsfiddle examples.
+
+###Further Reading
+- Socrata Developer Portal
+- SODA API Getting Started Guide
+- Chris Metcalfe’s jsfiddle examples.
