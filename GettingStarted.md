@@ -54,27 +54,27 @@ There are some additional controls on the right hand side of the screen which pr
 
 ###The second row of coloured buttons gives you additional options:
  
-- Manage – allows you to tweak the columns being shown and re-order them to tweak the presentation to your liking.
+- **Manage** – allows you to tweak the columns being shown and re-order them to tweak the presentation to your liking.
 
 Tip: if you’re signed in, then you can save these views and share with others
 
-- More Views – access to views, graphs and charts that others have made with this dataset
+- **More Views** – access to views, graphs and charts that others have made with this dataset
 
-- Filter – allows you to sort, filter, and format the dataset to find the specific data you’re interested in.
+- **Filter** – allows you to sort, filter, and format the dataset to find the specific data you’re interested in.
 
 Tip: again, if you’re signed in, then you can save these views and share with others
 
-- Visualize – provides access to tools to present the data as a chart or a map (if it has some location data in it). The tools provide similar functionality to Excel or other spreadsheet software.
+- **Visualize** – provides access to tools to present the data as a chart or a map (if it has some location data in it). The tools provide similar functionality to Excel or other spreadsheet software.
 
-- Export – ability to download the dataset and links to its APIs
+- **Export** – ability to download the dataset and links to its APIs
 
 Tip: every hosted dataset has two APIs. Both offer similar basic features that support querying the data
 
-- Discuss – a comment form to leave messages to the publisher
+- **Discuss** – a comment form to leave messages to the publisher
 
-- Embed – code snippets to allow you to embed the dataset (or a chart or map) in a blog post
+- **Embed** – code snippets to allow you to embed the dataset (or a chart or map) in a blog post
 
-- About – more metadata about the dataset, e.g. when was it updated, who published it, and under what licence it is published 
+- **About** – more metadata about the dataset, e.g. when was it updated, who published it, and under what licence it is published 
 
 Tip: the majority of datasets are under open licenses, but a few may have restrictions, e.g. to research use, please check!
 
@@ -92,8 +92,8 @@ To access the API for a dataset:
 Click the “Export” button on the dataset page
 
 The pull-out menu will give you two options for accessing the data:
-- *A SODA API* – this is Socrata’s own API. Their developer portal has a lot more detail on it, and links to client libraries, etc.
-- *An ODATA API* – this is a Microsoft API that is supported by a variety of tools. You can use it to import data into Excel or Tableau. More documentation.
+- **A SODA API** – this is Socrata’s own API. Their developer portal has a lot more detail on it, and links to client libraries, etc.
+- **An ODATA API** – this is a Microsoft API that is supported by a variety of tools. You can use it to import data into Excel or Tableau. More documentation.
 
 Both APIs use JSON. Use whichever one is best for you. However the SODA API will also link to an online tool that will let you explore creating API queries in your browser. Here’s the one for the live car park dataset.
 
