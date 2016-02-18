@@ -33,13 +33,17 @@ Open up the BANES Live Car Park Occupancy dataset in another browser window whil
 
 Every dataset hosted in the store is presented in basically the same way. When you look at the dataset you’ll see:
 
-###Its name
+- Its name
 - A description that tells you more about the dataset
 - A spreadsheet-like table that contains the actual data, each column should have a name that tells you what data it contains
+
+![](http://i.imgur.com/K2z8OM7.png)
 
 If the dataset is large or has a lot of columns then you can browse through it to explore it.
 
 There are some additional controls on the right hand side of the screen which provide ways to explore, visualise or access the data. These are shown below:
+
+![](http://i.imgur.com/LdNccpB.png)
 
 ###The top row has:
 
