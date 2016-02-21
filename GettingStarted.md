@@ -1,24 +1,24 @@
-#Data Store - Getting Started Guide
+#Finding and using open data
 
-A short guide to finding and using data in the Bath: Hacked data store. The guidance is intended to be useful for both a technical and non-technical audience.
+Open `Bath: Hacked` - https://data.bathhacked.org/ in a new tab (right click on the link - open in new tab)
 
-##The Data Store
-The data store can be found at https://data.bathhacked.org/.
+`Bath: Hacked` hosts open data about Bath & North East Somerset. The data comes from the local council and national datasets, e.g. published by the Office of National Statistics or the Environment Agency. In the future we hope to have data from other local organisations.
 
-It’s a website that hosts open data about Bath & North East Somerset. The data comes from the local council and national datasets, e.g. published by the Office of National Statistics or the Environment Agency. In the future we hope to have data from other local organisations.
-
-You don’t need to register to use the data store. All the data can be accessed without a login. But if you’re a developer who is using the APIs that the store provides, then if you do register then you can make extra queries if you use your API key. This also helps us track popular applications and datasets.
-
-The data store is hosted on a platform called Socrata. We pay for this service so we can concentrate on publishing and using data, rather than worrying about running another website or set of databases.
+The data store is hosted on `Socrata`. `Bath: Hacked` pays for this service so we can concentrate on publishing and using data, rather than worrying about running another website or set of databases.
 
 There is documentation and some videos that can help you learn more about Socrata.
 
-#Finding Datasets
-To browse through the store to find data you can:
+###Registration
+-You don’t need to register to *use the data*. All the data can be accessed without a login. 
 
-Click on the categories on the homepage, e.g. to find all of the Environmental data
-Search for data using a keyword, e.g. “parking”. This will search in the dataset titles, descriptions and also in the datasets themselves.
-You can also narrow down you search by using the datasets page which lets you combine together searches, categories and more to find just the data you need.
+-You need to resigister to *use the APIS*. Extra queries can be made using your API key, which helps us track popular applications and datasets.
+
+
+#Finding Datasets
+Either:
+1. Click on the categories on the homepage, e.g. to find all of the Environmental data
+2. Search for data using a keyword, e.g. “parking”. This will search in the dataset titles, descriptions and also in the datasets themselves.
+3. Narrow down your search using the datasets page which lets you combine searches, categories and more to find just the data you need.
 
 The data store contains a number of things:
 
