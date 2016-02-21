@@ -21,7 +21,7 @@ There is documentation and some videos that can help you learn more about Socrat
 
 -You need to resigister to *use the APIS*. Extra queries can be made using your API key, which helps us track popular applications and datasets.
 
-#3. Finding Interesting Data
+##3. Finding Interesting Data
 Either:
 
 1. Click on the categories on the homepage, e.g. to find all of the Environmental data
@@ -36,7 +36,7 @@ charts, maps, and a variety of other visualisations of the data
 
 The charts, maps, and other “data lenses” can be created entirely in the data store. So you can make a useful visualisation or tool without having to create a separate website or application. For example someone has created a map showing restaurants with very poor hygiene ratings. These can be embedded in another website, e.g. a blog, to help you tell stories with the data. See the Socrata video tutorials for more help.
 
-#4. Browsing A Dataset
+##4. Browsing A Dataset
 Open up the BANES Live Car Park Occupancy dataset in another browser window whilst you read this section.
 
 Every dataset hosted in the store is presented in basically the same way. When you look at the dataset you’ll see:
@@ -86,14 +86,14 @@ Tip: every hosted dataset has two APIs. Both offer similar basic features that s
 
 Tip: the majority of datasets are under open licenses, but a few may have restrictions, e.g. to research use, please check!
 
-#5. Downloading
+##5. Downloading
 
 Click the”Export” button on the dataset page
 From the pull-out menu, choose a data format
 
 The most commonly used will be CSV, XLS (for Excel), or JSON
 
-#6. Accessing the API
+##6. Accessing the API
 
 Click the “Export” button on the dataset page
 
