@@ -4,7 +4,7 @@ Open `Bath: Hacked` - https://data.bathhacked.org/ in a new tab (right click on 
 
 `Bath: Hacked` hosts open data about Bath & North East Somerset. The data comes from the local council and national datasets, e.g. published by the Office of National Statistics or the Environment Agency. In the future we hope to have data from other local organisations.
 
-The data store is hosted on `Socrata`. `Bath: Hacked` pays for this service so we can concentrate on publishing and using data, rather than worrying about running another website or set of databases.
+`Socrata` hosts the datasets so `Bath: Hacked` can concentrate on publishing and using data, rather than worrying about running another website or set of databases.
 
 There is documentation and some videos that can help you learn more about Socrata.
 
